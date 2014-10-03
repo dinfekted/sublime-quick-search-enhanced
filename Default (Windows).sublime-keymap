@@ -1,0 +1,9 @@
+[
+  {
+    "keys": ["ctrl+e"],
+    "command": "expand_panel_value",
+    "context": [
+      {"key": "search_panel_name", "operator": "regex_contains", "operand": "search_panel"}
+    ]
+  },
+]
