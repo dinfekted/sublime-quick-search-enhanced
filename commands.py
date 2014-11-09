@@ -1,5 +1,6 @@
 import sublime
 import sublime_plugin
+
 from QuickSearchEnhanced import quick_search
 
 class ExpandPanelValue(sublime_plugin.TextCommand):
